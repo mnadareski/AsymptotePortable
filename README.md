@@ -1,7 +1,7 @@
 -----------------
 Asymptote Portable:
-Developed for the PortableApps.com Platform
 -----------------
+Developed for the PortableApps.com Platform
 
 This is a PortableApps.com packaging of the descriptive vector graphics language Asymptote.
 
