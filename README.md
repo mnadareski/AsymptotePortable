@@ -45,4 +45,4 @@ Release Log:
 	+ Caused issues with integration testing
 	+ All outputted files should move to appropriate folders
 - Installer size: 8.42 MB
-- MD5 Hash: e5adf98c939d098d04bb9f22a1e16c0b
+- MD5 Hash: 04aabd0636ba7c1c83db9680d52005f4
