@@ -46,3 +46,10 @@ Release Log:
 	+ All outputted files should move to appropriate folders
 - Installer size: 8.42 MB
 - MD5 Hash: 04aabd0636ba7c1c83db9680d52005f4
+
+2.24 Dev Test 4:
+- Fixed spelling error in launcher.ini
+	+ All environment variables should work now
+	+ Thanks to d4winds for all external work put into this
+- Installer size: 
+- MD5 Hash: a932f443024d608b273895194577a6ef
