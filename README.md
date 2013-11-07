@@ -41,7 +41,7 @@ Release Log:
 - MD5 Hash: c43fd9cbe286262cdfcf891fd0872c02
 
 2.24 Dev Test 3:
-- Removed WorkingDirectory
+- Commented out WorkingDirectory
 	+ Caused issues with integration testing
 	+ All outputted files should move to appropriate folders
 - Installer size: 8.42 MB
@@ -53,3 +53,10 @@ Release Log:
 	+ Thanks to d4winds for all external work put into this
 - Installer size: 8.42 MB
 - MD5 Hash: a932f443024d608b273895194577a6ef
+
+2.24 Dev Test 5:
+- Updated registry items taken care of
+- Completely removed WorkingDirectory by default
+- Added new environment variables for futureproofing
+- Installer size: 8.42 MB
+- MD5 Hash: fa9671ae11442f01b2a65b987828a757
